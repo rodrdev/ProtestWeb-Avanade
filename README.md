@@ -5,13 +5,13 @@
 ### Pagina de login
 
 <p align="center"> 
-    <img src="https://imgur.com/qnlXx45"/>
+    <img src=""/>
 </p>
 
 ### Pagina de protestos
 
 <p align="center"> 
-    <img src="https://imgur.com/EHDFbwq"/>
+    <img src=""/>
 </p>
 
 ### BackEnd
