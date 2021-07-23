@@ -2,17 +2,25 @@
 
 ### FrontEnd
 
+<hr/>
+
 ### Pagina de login
 
+<hr/>
+
 <p align="center"> 
-    <img src="https://imgur.com/qnlXx45"/>
+    <img src="https://imgur.com/uik7Y9i"/>
 </p>
+
+<hr/>
 
 ### Pagina de protestos
 
 <p align="center"> 
     <img src="https://imgur.com/EHDFbwq"/>
 </p>
+
+<hr/>
 
 ### BackEnd
 
