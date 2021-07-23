@@ -1,0 +1,56 @@
+.centered {
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  transform: translate(-50%, -40%);
+}
+
+.container {
+  max-width: 700px;
+  width: 100%;
+}
+
+.inputLogin {
+  width: 100%;
+  padding: 25px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  color: white;
+  background: #232629;
+  box-sizing: border-box;
+  font-size: 20px;
+  caret-color: white;
+  margin-bottom: 20px;
+  padding-left: 60px;
+}
+
+.logo {
+  margin-bottom: 20px;
+}
+
+.btn {
+  width: 100%;
+  background: #d48229;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 25px;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: 500;
+  color: white;
+}
+
+.btn:hover {
+  background: #fb880b;
+}
+
+.github {
+  color: white;
+  font-size: 30px;
+  position: absolute;
+  left: 0;
+  margin-top: 20px;
+  margin-left: 20px;
+}
