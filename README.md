@@ -9,7 +9,7 @@
 <hr/>
 
 <p align="center"> 
-    <img src="https://imgur.com/uik7Y9i"/>
+    <img src="https://ibb.co/xDhXkpq"/>
 </p>
 
 <hr/>
