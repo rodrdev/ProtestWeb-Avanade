@@ -20,9 +20,23 @@
     <img src="https://raw.githubusercontent.com/rodrdev/ProtestWeb-Avanade/main/PrintsProtests/TimeLineFrontEnd.PNG"/>
 </p>
 
+#### :tada: Passo a passo para subir a aplicação front-end:
+
+> Entre na pasta `Frontend` e execute os comandos abaixo:
+
+- Instalando pacotes: `npm install` ou `yarn`
+- Iniciando o react: `npm start` ou `yarn start`
+
 <hr/>
 
 ### BackEnd
+
+#### :tada: Passo a passo para subir a aplicação back-end:
+
+> Entre na pasta `Backend` e execute os comandos abaixo:
+
+- Instalando pacotes: `npm install` ou `yarn`
+- Iniciando o node: `npm run dev` ou `yarn dev`
 
 ### Estrutura de Requisições da API
 
