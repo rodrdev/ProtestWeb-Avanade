@@ -2,17 +2,25 @@
 
 ### FrontEnd
 
+<hr/>
+
 ### Pagina de login
+
+<hr/>
 
 <p align="center"> 
     <img src=""/>
 </p>
+
+<hr/>
 
 ### Pagina de protestos
 
 <p align="center"> 
     <img src=""/>
 </p>
+
+<hr/>
 
 ### BackEnd
 
