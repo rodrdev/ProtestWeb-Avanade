@@ -9,7 +9,7 @@
 <hr/>
 
 <p align="center"> 
-    <img src=""/>
+    <img src="https://raw.githubusercontent.com/rodrdev/ProtestWeb-Avanade/main/PrintsProtests/LoginFrontEnd.PNG"/>
 </p>
 
 <hr/>
@@ -17,7 +17,7 @@
 ### Pagina de protestos
 
 <p align="center"> 
-    <img src=""/>
+    <img src="https://raw.githubusercontent.com/rodrdev/ProtestWeb-Avanade/main/PrintsProtests/TimeLineFrontEnd.PNG"/>
 </p>
 
 <hr/>
